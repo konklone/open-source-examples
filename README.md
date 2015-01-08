@@ -20,7 +20,7 @@ The Consumer Financial Protection Bureau engineering team launched a developer b
 * Screen: http://konklone.io/open-source-examples/images/cfpb-rss-feed.png
 
 
-18F's team working on online immigration services is using a public open source library ("searchkick") to built a powerful search engine. 18F pushed its limits and tested out an experimental approach with improved performance. They submitted their research and a patch to searchkick, which was accepted and thus improved the project for anyone using it.
+18F's team working on online immigration services is using a public open source library ("searchkick") to build a powerful search engine. 18F pushed its limits and tested out an experimental approach with improved performance. They submitted their research and a patch to searchkick, which was accepted and thus improved the project for anyone using it.
 
 * https://github.com/ankane/searchkick/issues/250
 * Screen: http://konklone.io/open-source-examples/images/18f-technical-immigration-patch.png
